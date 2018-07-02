@@ -1,0 +1,1 @@
+intel company,intel inside core i9
